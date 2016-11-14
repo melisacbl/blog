@@ -1,10 +1,10 @@
 ---
-title: "coral-blog"
-author: "Maur Lepore"
+title: "blog"
+author: "Mauro Lepore"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{coral-blog}
+  %\VignetteIndexEntry{blog}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -12,6 +12,28 @@ vignette: >
 # Next
 
 xxxnext
+
+
+# Issues to built a vignette
+
+## Stystem's time zone
+
+I think that one reason why a vignette failed to build was becasue I had not set the system's time zone, which I finally did with ` Sys.setenv(TZ='GMT')`. This is important, I think, because vignettes build with devtools::use_vignette have the field `date: Sys.Date()`.
+
+## Vignette builder
+
+Vignettes are not built by many proceces (see [A note to devtools users](http://yihui.name/knitr/demo/vignette/)). Functions that do build vignettes are, for example:
+
+- `devtools::build_vignettes()`
+
+- `devtools::install(build_vignettes = TRUE)`
+
+- `devtools::install_github("username/repo", build_vignettes = TRUE)`
+
+## Accesing vignettes
+
+To access a vignete run `vignette("vignette-title")` with no other argument (no need to specify the package, as all vignettes seem to be in a same index).
+
 
 
 
