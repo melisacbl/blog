@@ -8,5 +8,5 @@ Install the development version from github with:
 
 ```R
 # install.packages("devtools")
-devtools::install_github("hadley/lazyeval", build_vignettes = TRUE)
+devtools::install_github("maurolepore/blog", build_vignettes = TRUE)
 ```
