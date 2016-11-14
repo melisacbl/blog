@@ -1,13 +1,15 @@
 Package: blog
 Type: Package
-Title: Helps collaborators to write and share blog posts.
+Title: Helps collaborators to write and share blog posts
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: Mauro Lepore <maurolepore@gmail.com>
 Description: The blog package helps collaborators to write and share blog posts.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Suggests: knitr,
+Suggests:
+    knitr,
     rmarkdown
 VignetteBuilder: knitr
+RoxygenNote: 5.0.1
