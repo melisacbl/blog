@@ -1,0 +1,141 @@
+---
+title: "coral-blog"
+author: "Maur Lepore"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{coral-blog}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Next
+
+xxxnext
+
+
+
+# Preliminary notes
+
+I think of each blog post as a news release or a story. About each piece of news, a good news reporter would answer these five questions:
+
+- Why
+- Who
+- Where
+- What
+- How
+
+I use these questions as a starting point to write each coral-blog.
+
+Beware of the tense of each post. Write each post as if it was written at the time. Past tense will be used if required, but the present tense of each post is the past of today. This should not be notable.
+
+
+
+# Blog 1: biginning of the story
+
+```R
+Re-write in present tense.
+```
+
+
+## Why
+
+```R
+Recycle text from applications to STF, from website, from other applications that I and Aaron wrote (e.g. drone proposal, etc.).
+```
+
+Because we know little how humans impact coral reefs over the long term....
+
+
+
+## Who
+
+```R
+Link this blog to whatever website each persons used to advertise themselves.
+```
+
+Actors include: Mauro, Aaron and the paleolab (link), Andrew (link) Nicte, Melisa.
+
+
+
+
+## Where and when
+
+The project started three years, two continents, and a number of countries after I met Aaron for the first time...
+
+First, I met Aaron in 2013. It was in Australia, at the biggest international conference for coral reef studies, ICRS ... Carins if beautiful ...
+
+The second time I met Aaron was in Argentina, at another conference .... Mendoza is beautiful...
+
+Finally I arrived at STRI and the project started...
+
+
+
+## What
+
+What I did was to gather information from Aaron and from the dataset to identify what samples could answer the research question I have. 
+
+What is the research question?
+
+To allign it with the baseline caribbean
+
+Keep in mind the central themes of the O'Dea lab ([Change and variation in tropical seas](https://aaronodea.wordpress.com/research-group/)) and of the Baseline Caribbean Project ([What did reefs look like before humans](https://baselinecaribbean.wordpress.com/)).
+
+
+
+## How
+
+Aaron and his team, Andrew, Nicte and Melisa was exceptionally good... 
+
+The lab was vibrant...
+
+Nicte and Melisa joined with perfect timing. They were fantastic, innovative, enthusiastic...
+
+The job was exciting and 
+
+# Blog 2: middle of the story
+
+xxxnext
+
+- Why
+- Who
+- Where
+- What
+- How
+
+...
+
+- Samples have been processed
+- A reference collection has been 
+- Results are arising
+- We discover a bright spot
+
+
+
+# Blog 3: middle of the story
+
+- We submitted the paper t some journal
+- We plan present the results at the fellows conference
+- Where t from here
+    + Invitation t Berkley
+    + Interviews or future jobs
+    + Expect t come back t STRI
+
+
+
+# Blog 4: Nicte-Ha's post
+
+
+# Blog 5: Melisa's post
+
+
+
+
+
+- Mauro joins the O´Dea lab with a successful application t a Short Term fellowship
+- What is the project?
+- What is the work ahead?
+- Wh is going t work?
+
+x. Melisa leaves the lab
+y Nicte leaves the lab
