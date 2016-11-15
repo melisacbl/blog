@@ -1,0 +1,34 @@
+---
+title: "Using vignettes"
+author: "Mauro Lepore"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Using vignettes}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Vignette builder
+
+Vignettes are built by only a few proceces (see [A note to devtools users](http://yihui.name/knitr/demo/vignette/)). In my experience, the process that works is: 
+
+- `devtools::use_vignette("vignettefilename")`
+
+- Update yaml accordingly (vignette title can be different than vignettefilename)
+
+- If necessary, clean and rebuild.
+
+- Check
+
+- `devtools::build_vignettes()` (or ensure vignettes are build during chekc or build source)
+
+- Build source
+
+- `devtools::install(build_vignettes = TRUE)`
+
+- To access a vignette use `vignette("vignettefilename")` (no need to specify the package, as all vignettes seem to be in a same index).
+
+If installing from github, use `devtools::install_github("username/repo", build_vignettes = TRUE)`.
+
+

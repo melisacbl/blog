@@ -14,26 +14,6 @@ vignette: >
 xxxnext
 
 
-# Issues to built a vignette
-
-## Stystem's time zone
-
-I think that one reason why a vignette failed to build was becasue I had not set the system's time zone, which I finally did with ` Sys.setenv(TZ='GMT')`. This is important, I think, because vignettes build with devtools::use_vignette have the field `date: Sys.Date()`.
-
-## Vignette builder
-
-Vignettes are not built by many proceces (see [A note to devtools users](http://yihui.name/knitr/demo/vignette/)). Functions that do build vignettes are, for example:
-
-- `devtools::build_vignettes()`
-
-- `devtools::install(build_vignettes = TRUE)`
-
-- `devtools::install_github("username/repo", build_vignettes = TRUE)`
-
-## Accesing vignettes
-
-To access a vignete run `vignette("vignette-title")` with no other argument (no need to specify the package, as all vignettes seem to be in a same index).
-
 
 
 
@@ -53,111 +33,83 @@ Beware of the tense of each post. Write each post as if it was written at the ti
 
 
 
-# Blog 1: biginning of the story
+# Blog 1: the coral team kicks-off!
 
-```R
-Re-write in present tense.
-```
-
-
-## Why
-
-```R
-Recycle text from applications to STF, from website, from other applications that I and Aaron wrote (e.g. drone proposal, etc.).
-```
-
-Because we know little how humans impact coral reefs over the long term....
+As in every story, present the actors first. 
 
 
 
-## Who
+### Focus on the project
 
-```R
-Link this blog to whatever website each persons used to advertise themselves.
-```
+- Why, because we know little about how humans impact coral reefs ecosystems...```R Recycle text from applications to STF, from website, from other applications that I and Aaron wrote (e.g. drone proposal, etc.).```
 
-Actors include: Mauro, Aaron and the paleolab (link), Andrew (link) Nicte, Melisa.
+- Who, we examined reef corals
 
+- Where,  bocas
 
-
-
-## Where and when
-
-The project started three years, two continents, and a number of countries after I met Aaron for the first time...
-
-First, I met Aaron in 2013. It was in Australia, at the biggest international conference for coral reef studies, ICRS ... Carins if beautiful ...
-
-The second time I met Aaron was in Argentina, at another conference .... Mendoza is beautiful...
-
-Finally I arrived at STRI and the project started...
+- What, specifically, we studied changes in what type of corals and how much of them lived before and since human impacts. 
+    
+- How, samples had been collected of corals from reefs from two time intervals, one from reefs that lived ~ 7 000 years ago and another one from subrecent
 
 
 
-## What
+### Focus on the people
 
-What I did was to gather information from Aaron and from the dataset to identify what samples could answer the research question I have. 
+- why, because of his scientific and personal attributes, Aaron is one if not best person to work on historical ecology in the Holocene.
 
-What is the research question?
-
-To allign it with the baseline caribbean
-
-Keep in mind the central themes of the O'Dea lab ([Change and variation in tropical seas](https://aaronodea.wordpress.com/research-group/)) and of the Baseline Caribbean Project ([What did reefs look like before humans](https://baselinecaribbean.wordpress.com/)).
+- who, I have a fantastic team, including Aaron and the paleolab (link), Andrew (link) Nicte, Melisa.```R Link this blog to whatever website each persons used to advertise themselves.```
 
 
+- where, stri, panama
 
-## How
+- when, The project started three years, two continents, and a number of countries after I met Aaron for the first time...First, I met Aaron in 2013. It was in Australia, at the biggest international conference for coral reef studies, ICRS ... Carins if beautiful ...The second time I met Aaron was in Argentina, at another conference .... Mendoza is beautiful...
 
-Aaron and his team, Andrew, Nicte and Melisa was exceptionally good... 
+- what, what Aaron is interested on is, generally, in understanding ([Change and variation in tropical seas](https://aaronodea.wordpress.com/research-group/)) and, specifically, in answering ([What did reefs look like before humans](https://baselinecaribbean.wordpress.com/)).
 
-The lab was vibrant...
+- how, 
 
-Nicte and Melisa joined with perfect timing. They were fantastic, innovative, enthusiastic...
+    + Aaron and his team, Andrew, Nicte and Melisa was exceptionally good... 
+    + The lab was vibrant...
+    + Nicte and Melisa joined with perfect timing. They were fantastic, innovative, enthusiastic...
+    + The job was exciting and 
 
-The job was exciting and 
+# Blog 2: Great news from the coral team!
 
-# Blog 2: middle of the story
+The coral team has gret news to share: one reefs from Bocas del Toro looks similar to pristine! Curious? Here is what we found.
 
-xxxnext
+- Achievements:
 
-- Why
-- Who
-- Where
-- What
-- How
+    + preliminary results
+    + reference collection (thank Katie Cramer for material)
+    + presented reserach at APANAC, show abstract and photos (thank Kristin for illustrations)
 
-...
-
-- Samples have been processed
-- A reference collection has been 
-- Results are arising
-- We discover a bright spot
 
 
 
 # Blog 3: middle of the story
 
-- We submitted the paper t some journal
-- We plan present the results at the fellows conference
-- Where t from here
-    + Invitation t Berkley
-    + Interviews or future jobs
-    + Expect t come back t STRI
+- Results are final
+- A manuscript is being produced
+- We plan present the results at the STRI's fellows conference
+- Invitation to Berkley to discuss paleoecological data analysis
+
+- Where to from here (people)
+    + Nicte got a job in Bocas and submitted her masters thesis
+    + Melisa went back to school, full of new skills and ideas
+    + Expect to come back t STRI
+    
+- Where to from here (research)
+
+The elipse continues...who is comming next? What remains unsolved?...
 
 
 
 # Blog 4: Nicte-Ha's post
 
+Her experience
+
+
 
 # Blog 5: Melisa's post
 
-
-
-
-
-- Mauro joins the O´Dea lab with a successful application t a Short Term fellowship
-- What is the project?
-- What is the work ahead?
-- Wh is going t work?
-
-x. Melisa leaves the lab
-y Nicte leaves the lab
+Her experience
