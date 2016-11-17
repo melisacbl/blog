@@ -16,10 +16,16 @@ xxxnext
 
 
 
+hello
+
+
+
+
+```R
 
 # Preliminary notes
 
-I think of each blog post as a news release or a story. About each piece of news, a good news reporter would answer these five questions:
+Blog posts compare to news releases. About each piece of news, a good reporter would answer:
 
 - Why
 - Who
@@ -27,51 +33,37 @@ I think of each blog post as a news release or a story. About each piece of news
 - What
 - How
 
-I use these questions as a starting point to write each coral-blog.
-
 Beware of the tense of each post. Write each post as if it was written at the time. Past tense will be used if required, but the present tense of each post is the past of today. This should not be notable.
-
+```
 
 
 # Blog 1: the coral team kicks-off!
 
-As in every story, present the actors first. 
+```R As in every story, present the actors first.```
+
+What did reefs look like before humans?. `why `To answer this question, `Where ` I joined the [Baseline Caribbean project](https://baselinecaribbean.wordpress.com/) of the [O'Dea lab](https://aaronodea.wordpress.com/research-group/).
+
+`who `Reef corals, in particular, are very important. For example, they build "homes" for multiple reef ctitters---including fish we eat. Reefs also protect our coasts against storms and boost the tourisms industry. `need `Despite their importance, little we know about how reefs vary naturally and how they respond to human impact. `why `To lean more and thus help conserve coral reef ecosystems `where` I study reef corals from Bocas del Toro, Caribbean Panama. `what/how ` Here because we had an exceptional opportunity to sample reef corals that lived 7 000 yeas ago. Our chance was during construction work, after which that fossil treasure was transformed into a lake and lost forever. Luckily, our samples allow us to compare those communities of pristine reef corals with the the communities that, in the same region, live today.
 
 
 
-### Focus on the project
-
-- Why, because we know little about how humans impact coral reefs ecosystems...```R Recycle text from applications to STF, from website, from other applications that I and Aaron wrote (e.g. drone proposal, etc.).```
-
-- Who, we examined reef corals
-
-- Where,  bocas
-
-- What, specifically, we studied changes in what type of corals and how much of them lived before and since human impacts. 
-    
-- How, samples had been collected of corals from reefs from two time intervals, one from reefs that lived ~ 7 000 years ago and another one from subrecent
 
 
 
-### Focus on the people
+xxxnext
 
-- why, because of his scientific and personal attributes, Aaron is one if not best person to work on historical ecology in the Holocene.
+- Aaron, John Pandolfi, Andrew Altieri supported my application to a STRI Fellowship funded the project. 
 
-- who, I have a fantastic team, including Aaron and the paleolab (link), Andrew (link) Nicte, Melisa.```R Link this blog to whatever website each persons used to advertise themselves.```
+- The aplication was succesfull.
+
+- Nicte joined first and Melisa soon after.
+
+- This is looking great! It is time now to get the job done! We'll keep you posted!
 
 
-- where, stri, panama
 
-- when, The project started three years, two continents, and a number of countries after I met Aaron for the first time...First, I met Aaron in 2013. It was in Australia, at the biggest international conference for coral reef studies, ICRS ... Carins if beautiful ...The second time I met Aaron was in Argentina, at another conference .... Mendoza is beautiful...
 
-- what, what Aaron is interested on is, generally, in understanding ([Change and variation in tropical seas](https://aaronodea.wordpress.com/research-group/)) and, specifically, in answering ([What did reefs look like before humans](https://baselinecaribbean.wordpress.com/)).
 
-- how, 
-
-    + Aaron and his team, Andrew, Nicte and Melisa was exceptionally good... 
-    + The lab was vibrant...
-    + Nicte and Melisa joined with perfect timing. They were fantastic, innovative, enthusiastic...
-    + The job was exciting and 
 
 # Blog 2: Great news from the coral team!
 
