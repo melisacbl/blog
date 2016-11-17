@@ -16,9 +16,6 @@ xxxnext
 
 
 
-hello
-
-
 
 
 ```R
@@ -43,22 +40,11 @@ Beware of the tense of each post. Write each post as if it was written at the ti
 
 What did reefs look like before humans?. `why `To answer this question, `Where ` I joined the [Baseline Caribbean project](https://baselinecaribbean.wordpress.com/) of the [O'Dea lab](https://aaronodea.wordpress.com/research-group/).
 
-`who `Reef corals, in particular, are very important. For example, they build "homes" for multiple reef ctitters---including fish we eat. Reefs also protect our coasts against storms and boost the tourisms industry. `need `Despite their importance, little we know about how reefs vary naturally and how they respond to human impact. `why `To lean more and thus help conserve coral reef ecosystems `where` I study reef corals from Bocas del Toro, Caribbean Panama. `what/how ` Here because we had an exceptional opportunity to sample reef corals that lived 7 000 yeas ago. Our chance was during construction work, after which that fossil treasure was transformed into a lake and lost forever. Luckily, our samples allow us to compare those communities of pristine reef corals with the the communities that, in the same region, live today.
+`who `Reef corals, in particular, are very important. For example, they build "homes" for multiple reef ctitters---including fish we eat. Reefs also protect our coasts against storms and boost the tourisms industry. `need `Despite their importance, little we know about how reefs vary naturally and how they respond to human impact. `why `To lean more and thus help conserve coral reef ecosystems `where` we study reef corals from Bocas del Toro, Caribbean Panama. `what/how ` We chouse this place because here we had the exceptional opportunity to sample reef corals that lived 7 000 yeas ago. Our chance was during construction work, after which that fossil treasure was transformed into a lake and lost forever. Luckily, our samples allow us to compare those communities of pristine reef corals with the the communities that, in the same region, live today.
 
+This project has excellent home and family. Its home is The Smithsonian Tropical Research Institute, which offers exceptional support including [grants of all sorts](xxxlink). Its family are a bunch of people rich in ideas and energy, and willing to work hard to make this world a better place. We call ourselves the **coral team**: [Nicte-Ha Muñoz](xxxlinknicte) (intern, post-graduate student), [Melisa Chan](xxxlinkmelisa) (intern, graduate student), [Felix Rodriguez](xxxlinkfelix) (staff research assistant), [Andrew Altieri](xxxlinkandrew) (co-advisor, staff scientist), [Aaron O'Dea](xxxlinkaaron) (principal investigator, staff scientist) and me, [Mauro Lepore](xxxlinkmauro) (the guy blame, fellow scientist). 
 
-
-
-
-
-xxxnext
-
-- Aaron, John Pandolfi, Andrew Altieri supported my application to a STRI Fellowship funded the project. 
-
-- The aplication was succesfull.
-
-- Nicte joined first and Melisa soon after.
-
-- This is looking great! It is time now to get the job done! We'll keep you posted!
+This is looking great! Not let's get the job done! We'll keep you posted!
 
 
 
