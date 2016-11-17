@@ -9,15 +9,6 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-# Next
-
-xxxnext
-
-
-
-
-
-
 ```R
 
 # Preliminary notes
@@ -30,8 +21,12 @@ Blog posts compare to news releases. About each piece of news, a good reporter w
 - What
 - How
 
-Beware of the tense of each post. Write each post as if it was written at the time. Past tense will be used if required, but the present tense of each post is the past of today. This should not be notable.
+Beware of the tense of each post. Write each post as if it was written at the time.
 ```
+
+
+
+
 
 
 # Blog 1: the coral team kicks-off!
@@ -64,6 +59,8 @@ The coral team has gret news to share: one reefs from Bocas del Toro looks simil
 
 
 
+
+
 # Blog 3: middle of the story
 
 - Results are final
@@ -82,9 +79,15 @@ The elipse continues...who is comming next? What remains unsolved?...
 
 
 
+
+
+
 # Blog 4: Nicte-Ha's post
 
 Her experience
+
+
+
 
 
 
