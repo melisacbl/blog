@@ -1,0 +1,22 @@
+---
+title: "blog1"
+author: "Mauro Lepore"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{blog1}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Blog 1: the coral team kicks-off!
+
+What did reefs look like before humans?. To answer this question, I joined the [Baseline Caribbean project](https://baselinecaribbean.wordpress.com/) of [Aaron O'Dea and his lab](https://aaronodea.wordpress.com/research-group/).
+
+Reef corals are very important, for example, because they build "homes" for multiple reef critters---including delicious fish! Reefs also protect our coasts against storms and boost the tourism industry. Despite their importance, little we know about how reefs vary naturally and how they respond to human impact. This makes it difficult to conserve coral reefs and to sustain fisheries and tourism, among other valuable services.
+
+To understand and manage coral reefs better, we project to investigate communities of reef coral from Bocas del Toro, Caribbean Panama. Here, we had opportunistic access to sample pristine communities of reef corals---communities that lived approximately 7 000 yeas ago and, therefore, never experienced human impact. That opportunity was brief, during construction work. Soon after sampling, that fossil treasure was transformed into a lake and lost forever. Fortunately, our samples will provide robust evidence of what pristine coral reefs should look like. This is fundamental to inform coral reef managers.
+
+Our project has excellent home and family. Its home is The Smithsonian Tropical Research Institute, which offers exceptional support including [internships](http://www.stri.si.edu/english/education_fellowships/internships/index.php) and [fellowships](http://www.stri.si.edu/english/education_fellowships/fellowships/). Its family are a bunch of people, rich in ideas and energy, and willing to work hard to make this world a better place. We are: Nicte-Ha Muñoz (intern, post-graduate student), Melisa Chan (intern, graduate student), Felix Rodriguez (staff research assistant), Andrew Altieri (co-advisor, staff scientist), Aaron O'Dea (principal investigator, staff scientist) and me, Mauro Lepore (the person to blame, fellow scientist). To learn more about us visit [Aaron´s](https://aaronodea.wordpress.com/research-group/) and [Andrew´s](http://www.altierilab.org/) websites.
+
+Are you convinced that we have great intentions, ideas and team? If so, come back to this website; we´ll keep you posted!

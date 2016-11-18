@@ -1,0 +1,20 @@
+---
+title: "blog3"
+author: "Nicte-Ha"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{blog3}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Blog 3: Nicte-Ha's post
+
+Her experience
+
+
+
+
+
+

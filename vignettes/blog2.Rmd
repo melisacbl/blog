@@ -1,0 +1,39 @@
+---
+title: "blog2"
+author: "Mauro Lepore"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{blog2}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Blog 2: Great news from the coral team!
+
+The coral team has gret news to share: one reefs from Bocas del Toro looks similar to pristine! Curious? Here is what we found.
+
+The hottest finding so far is that we found a brigt spot.
+
+Other outputs of the project so far have been 
+
+- I presented a public talk at  the Biomuseo, tweeter
+
+- I read a book for kids at the international book fair, tweeter from US embassy
+
+- Nicte and Melisa developed a guide to ID corals with versions [online](xxxlink) and in [hard copy](link)
+
+- Nicte and Melisa developed a reference collection and presented it at APANAC
+
+    + thank Katie Cramer for material
+    + xxxinsert photos from APANAC (directly or on tweeter / facebook)
+    + xxxinsert image of the poster from APANAC
+    + thank Kristin for illustrations
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+---
+title: "blog5"
+author: "Mauro Lepore"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{blog5}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Blog 5: Concluding
+
+
+What we have
+
+- Share final results
+
+- Share products that are available online
+
+- A manuscript is being produced or has been submitted for publication to...
+
+The elipse continues...who is comming next? What remains unsolved?...
+
+
+
+What comes next
+
+- We plan present the results at the STRI's fellows conference in February 2017
+
+- We will discuss paleoecological data analysis in Berkley in March 2017
+
+- Nicte got a job in Bocas and submitted her masters thesis
+
+- Melisa went back to school, full of new skills and ideas
+
+
+
+
