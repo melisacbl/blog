@@ -9,6 +9,8 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
+I welcome feedback!
+
 # Blog 1: the coral team kicks-off!
 
 What did reefs look like before humans?. To answer this question, I joined the [Baseline Caribbean project](https://baselinecaribbean.wordpress.com/) of [Aaron O'Dea and his lab](https://aaronodea.wordpress.com/research-group/).
